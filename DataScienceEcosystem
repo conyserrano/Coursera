@@ -1,30 +1,60 @@
-
-# Data Science Tools and Ecosystem
-# EJERCICIO2
-In this notebook, Data Science Tools and Ecosystem are summarized.
-# EJERCICIO3
-Some of the popular languages that Data Scientists use are:
+# EJERCICIO 2
+## Data Science Tools and Ecosystem
+# EJERCICIO 3
+## Introduction
+In this workbook, we will explore fundamental concepts of data science and some tools used in the field. We will also work through some practical examples, such as multiplying numbers and converting minutes to hours.
+# EJERCICIO 4
+## Data Science Languages
+The most commonly used programming languages ​​in data science are:
 1. Python
 2. R
 3. SQL
-# EJERCICIO4
-| Data Science Tools |
-|---|---|
-| Jupyter Notebook |
-| RStudio |
-| VS Code |
-# EJERCICIO5
-### Below are a few examples of evaluating arithmetic expressions in Python
-# EJERCICO 6
-# This a simple arithmetic expression to multiply then add integers.
-(3*4)+5
-# EJERCICIO7
-# This will convert 200 minutes to hours by diving by 60.
-200/60
+4. Julia
+5. Scala
+# EJERCICIO 5
+## Data Science Libraries
+Some of the most popular libraries in data science are:
+- NumPy
+- pandas
+- Matplotlib
+- scikit-learn
+- TensorFlow
+- PyTorch
+# EJERCICiO 6
+## Data Science Tools
+
+| Tool | Purpose |
+|------------------------|----------------------------------------|
+| Jupyter Notebooks | Interactive Development and Visualization |
+| RStudio | Statistical Analysis |
+| Apache Hadoop | Big Data Storage and Processing |
+| Apache Spark | Real-Time Data Processing |
+| Tableau | Data Visualization |
+# EJERCICIO 7
+## Examples of Arithmetic Expressions
+Below are examples of common arithmetic expressions in programming:
+
+- Addition: `a + b`
+- Subtraction: `a - b`
+- Multiplication: `a * b`
+- Division: `a / b`
 # EJERCICIO 8
-**Objectives:**
-* List popular languages for Data Science.
-* Introduce common libraries used in Data Science.
-* Demonstrate basic arithmetic operations in Python.
+# Multiplicación y Suma de Números
+a = 10
+b = 5
+multiplicacion = a * b
+suma = a + b
+multiplicacion, suma
+# EJERCICIO 9
+# Convert Minutes to Hours
+minutes = 150
+hours = minutes / 60
+hours
+# EJERCICIO 10
+# List Objectives
+objectives = ["Learn the fundamentals of data science",
+"Practice with programming tools and languages",
+"Solve practical problems"]
+objectives
 ## Author
-Constanza Perez
+This notebook was created by Constanza Perez
